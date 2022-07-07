@@ -1,0 +1,18 @@
+.cnt-style-maincolor {
+    background-color: powderblue;
+    border-radius: 20px;
+}
+
+.btn-outline-maincolor {
+    color: powderblue;
+    background-color: transparent;
+    background-image: none;
+    border-color: powderblue;
+}
+
+.btn-hover:hover{
+    color: black;
+    /* font-weight: bold; */
+    background-color: powderblue;
+    transition: 0.15s;
+}
